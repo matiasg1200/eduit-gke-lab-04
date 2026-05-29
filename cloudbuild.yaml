@@ -2,7 +2,7 @@ substitutions:
   _REGION: us-central1
   _REPO: cicd-lab-repo
   _CLUSTER: gke-cicd-cluster
-  _ZONE: us-central1-c
+  _ZONE: us-central1-b
 
 options:
   logging: CLOUD_LOGGING_ONLY
